@@ -39,7 +39,16 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | | JCarrasco Contreras Jhon Jeremy| --- | --- |
 | | Vargas Piñe Jhenifer Carolina | --- | --- |
 ---
+## 📊 Rendimiento del Equipo (GitHub)
 
+| Nombre | % Participación |
+|--------|:----------------:|
+| Corrales Villa Darlene Keyra Cielo | 100% |
+| Mayta Yaicate Jose Julian |  100% |
+| Palma Solorzano Caleb | 0% |
+| Carrasco Contreras Jhon Jeremy | 0% |
+| Vargas Piñe Jhenifer Carolina | 0% |
+---
 ## 📌 Resumen Final
 
 Este README es una de las tantas pruebas...
