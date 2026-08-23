@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0000FF; font-weight: bold;">
-  Equipo 01 - Proyectos para Ingeniería 1
+  Equipo 02 - Proyectos para Ingeniería 1
 </h1>
 
 <p align="center">
@@ -34,7 +34,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |:----:|--------|-----|-----------|
 | | Corrales Villa Darlene Keyra Cielo | Coordinador | Destruir el mundo :D |
-| | Mayta Yaicate Jose Julian |  ---| Desarrollar aplicaciones |
+| | Mayta Yaicate Jose Julian | Programador | Desarrollar aplicaciones |
 | | Palma Solorzano Caleb | --- | --- |
 | | JCarrasco Contreras Jhon Jeremy| --- | --- |
 | | Vargas Piñe Jhenifer Carolina | --- | --- |
