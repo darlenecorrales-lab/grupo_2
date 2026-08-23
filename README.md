@@ -35,7 +35,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |:----:|--------|-----|-----------|
 | | Corrales Villa Darlene Keyra Cielo | Coordinador | Destruir el mundo :D |
 | | Mayta Yaicate Jose Julian | Programador | Desarrollar aplicaciones |
-| | Palma Solorzano Caleb | --- | --- |
+| | Palma Solorzano Caleb | Investigador Ambiental / Especialista ODS | Investigar el impacto ambiental, analizar la huella de carbono y garantizar que la solución cumpla con los ODS 7 y 13.|
 | | JCarrasco Contreras Jhon Jeremy| --- | --- |
 | | Vargas Piñe Jhenifer Carolina | --- | --- |
 ---
@@ -45,7 +45,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |--------|:----------------:|
 | Corrales Villa Darlene Keyra Cielo | 100% |
 | Mayta Yaicate Jose Julian |  100% |
-| Palma Solorzano Caleb | 0% |
+| Palma Solorzano Caleb | 10% (tarde) |
 | Carrasco Contreras Jhon Jeremy | 0% |
 | Vargas Piñe Jhenifer Carolina | 0% |
 ---
