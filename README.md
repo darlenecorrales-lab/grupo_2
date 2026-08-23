@@ -29,6 +29,21 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 
 ---
+### 📓 Estructura del Repositorio
+
+## Grupo 2/
+
+***Imagenes/*** # Imagenes que se van a utilizar en nuestro sistema
+
+***Procesos_Innovacion/*** # Procesos que se realizaran en el sistema
+
+***Proyecto/*** # Arquitectura principal del sistema
+
+***Recursos/*** # Documentación e investigacion
+
+***README.md:*** Presentación de nuestro proyecto
+
+---
 
 ## 👥 Integrantes del Equipo
 
