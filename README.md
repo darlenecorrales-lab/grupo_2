@@ -16,6 +16,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 - 🩺 **ODS 3:** Salud y Bienestar
 - 🏗️ **ODS 9:** Industria, Innovación e Infraestructura
+- 📕 **ODS 4:** Educación de Calidad
 - 🏙️ **ODS 11:** Ciudades y Comunidades Sostenibles
 - 🌳 **ODS 15:** Vida de Ecosistemas Terrestres
 - ⚖️ **ODS 16:** Paz, Justicia e Instituciones Sólidas
