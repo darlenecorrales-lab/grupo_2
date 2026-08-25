@@ -64,7 +64,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Corrales Villa Darlene Keyra Cielo | 100% |
 | Mayta Yaicate Jose Julian |  100% |
 | Palma Solorzano Caleb | 10% (tarde) |
-| Carrasco Contreras Jhon Jeremy | 10% (tarde) |
+| Carrasco Contreras Jhon Jeremy | 100% |
 | Vargas Piñe Jhenifer Carolina | 100% |
 ---
 ## 📌 Resumen Final
