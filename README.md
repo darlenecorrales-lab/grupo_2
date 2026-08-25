@@ -20,13 +20,15 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - 🏙️ **ODS 11:** Ciudades y Comunidades Sostenibles
 - 🌳 **ODS 15:** Vida de Ecosistemas Terrestres
 - ⚖️ **ODS 16:** Paz, Justicia e Instituciones Sólidas
-
+- 🏗️ **ODS 9:** Industria, Innovación e Infraestructura
 ### 💡 Propuestas de proyecto
 
 1. Sistema de detección y reducción de contaminación aérea.
 2. Sistema de detección de deforestación causada por minería ilegal y tala ilegal a través de imágenes satelitales.
 3. Sistema de monitoreo de impacto ambiental.
-
+4. “PlantCare” - Sistema automático para cuidar plantas cuando no estás en casa.
+5. "SafeBox” — Casillero inteligente para objetos personales
+6. ReparaTech” — Kits inteligentes para aprender a reparar objetos electrónicos
 
 ---
 ### 📓 Estructura del Repositorio
@@ -53,7 +55,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | | Mayta Yaicate Jose Julian | Programador | Desarrollar aplicaciones |
 | | Palma Solorzano Caleb | Investigador Ambiental / Especialista ODS | Investigar el impacto ambiental, analizar la huella de carbono y garantizar que la solución cumpla con los ODS 7 y 13.|
 | | Carrasco Contreras Jhon Jeremy| Encargado de Documentación | Comunicación cientifica y redaccion tecnica |
-| | Vargas Piñe Jhenifer Carolina | --- | --- |
+| | Vargas Piñe Jhenifer Carolina | Diseñadora Estratégica | La robótica y el diseño |
 ---
 ## 📊 Rendimiento del Equipo (GitHub)
 
@@ -63,7 +65,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Mayta Yaicate Jose Julian |  100% |
 | Palma Solorzano Caleb | 10% (tarde) |
 | Carrasco Contreras Jhon Jeremy | 10% (tarde) |
-| Vargas Piñe Jhenifer Carolina | 0% |
+| Vargas Piñe Jhenifer Carolina | 100% |
 ---
 ## 📌 Resumen Final
 
